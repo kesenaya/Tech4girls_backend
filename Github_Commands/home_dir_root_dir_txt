@@ -1,0 +1,3 @@
+The linux home directory is a personnal space for the each user,typically located at/home/username,where "username"is the users name .
+.It serves as the default directory upon logging in and it contains individual files and settings.
+The root users home directory is located at /root/,granting it control over all system files and directory
