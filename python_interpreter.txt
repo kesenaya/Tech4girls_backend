@@ -1,0 +1,5 @@
+ Type  and enter python3 
+ example
+ num1=[2],num2=[8]
+ result= num1 +num2
+ print(num1, "+",num2,"result")

@@ -1,0 +1,7 @@
+The linux home directory is a personnal space for the each user,typically located at/home/username,where "username"is the users name 
+it serves as the default directory upon logging in and it contains individual files and settings.
+The root users home directory is located at /root/,granting it control over all system files and directory
+The git pull command is used to update your local version of a repository by getting the latest changes from a remote repository. 
+You would use it when you're working on a project with other people and want to make sure your code is up to date with what everyone else has done.
+ Basically, it does two things: it first fetches the new updates (like using git fetch) and then merges them into your current branch (like git merge).
+  It's super important for keeping everything in sync when multiple people are working on the same project!

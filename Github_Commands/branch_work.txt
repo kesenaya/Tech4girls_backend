@@ -1,0 +1,4 @@
+To create, publish, and switch branches in GitHub using Git commands:
+Create a Branch: Use git checkout -b branch_name to create and switch to a new branch.
+Publish the Branch: Use git push origin branch_name to push the new branch to the remote repository on GitHub.
+Switch to a Different Branch: Use git checkout other_branch_name to switch to an existing branch.

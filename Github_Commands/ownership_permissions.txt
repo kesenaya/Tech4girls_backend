@@ -1,0 +1,14 @@
+In Linux, file ownership and permissions control access to files and directories. Each file has three owners:
+User: The creator with full control.
+Group: A set of users sharing permissions.
+Others: Everyone else.
+File Permission
+There are three main types:
+Read (r): View or copy the file; list directory contents.
+Write (w): Modify the file; add or delete files in a directory.
+Execute (x): Run the file as a program; enter a directory.
+Changing Permissions
+Permissions can be modified using the chmod command in two ways:
+Symbolic Mode: Uses letters to add/remove permissions (e.g., chmod u+x filename).
+Absolute Mode: Uses numbers to set permissions (e.g., chmod 755 filename).
+These concepts are crucial for managing security and access in a multi-user environment.

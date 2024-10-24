@@ -1,0 +1,5 @@
+you will use the commands
+ mkdir Backend_Projects
+ cd  Backend_Projects
+ mkdir ProjectA
+  mkdir ProjectB.

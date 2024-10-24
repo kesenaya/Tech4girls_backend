@@ -1,0 +1,3 @@
+. Owner (User): The file's owner.
+2. Group: Users who share access to the file
+3. Others: Everyone else not in the first two categories.

@@ -1,0 +1,2 @@
+A git branch is an independent line of development taken from the same source code. 
+Git's branching and merging capabilities enable parallel development. Each team member can create their own branch to work on specific features or fixes without disrupting the main project.

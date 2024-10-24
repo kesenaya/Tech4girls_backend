@@ -1,0 +1,4 @@
+The string representation for the "read" file permission is "r". In file permissions:
+"r" stands for read
+"w" stands for write
+"x" stands for execute

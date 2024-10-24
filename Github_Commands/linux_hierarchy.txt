@@ -1,0 +1,7 @@
+/ – The Root. Everything begins in your system from this directory. 
+/bin – Binaries. 
+/boot – Boot Files.
+/dev – Device Nodes. 
+/etc – Configuration Files.
+/home – Users' Folder. 
+/lib – Libraries. 
