@@ -14,10 +14,11 @@ print(name)
 name2 =("Ted","Nat")
 name.extend(name2)
 print(name)"""
+"""Q2
 galaxy ={"sun", "moon","star","comets","air"}
 #ADD
 galaxy.add("planet")
-print(galaxy)
+#print(galaxy)
 #REMOVE
 galaxy.remove("sun")
 print(galaxy)
@@ -30,6 +31,6 @@ common = galaxy.intersection("earth")
 print(common)
 #difference
 unique = galaxy.difference("earth")
-print(unique)
+print(unique)"""
 
 
