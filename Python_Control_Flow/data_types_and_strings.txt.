@@ -1,9 +1,9 @@
 """Python has many types of data some of which are
 A. Numeric types of data i.e
-i. int: contains both negative &positive whole numbers.it can not contain fraction or decimals. eg x=100
-ii. float: it numerical values can be expressed with a decima point. also it values can be both neg/posi. eg y=20.7
+1. int: contains both negative &positive whole numbers.it can not contain fraction or decimals. eg x=100
+2. float: it numerical values can be expressed with a decima point. also it values can be both neg/posi. eg y=20.7
 Sequence data type;
-iii. str: data type used in programming, that is used to represent text rather than numbers. it is immutable
+3. str: data type used in programming, that is used to represent text rather than numbers. it is immutable
 eg. greeting ="hi"
     name ="bonnie"
     message =greeting +","+ name
