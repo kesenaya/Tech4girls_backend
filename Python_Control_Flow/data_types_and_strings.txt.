@@ -1,0 +1,33 @@
+"""Python has many types of data some of which are
+A. Numeric types of data i.e
+i. int: contains both negative &positive whole numbers.it can not contain fraction or decimals. eg x=100
+ii. float: it numerical values can be expressed with a decima point. also it values can be both neg/posi. eg y=20.7
+Sequence data type;
+iii. str: data type used in programming, that is used to represent text rather than numbers. it is immutable
+eg. greeting ="hi"
+    name ="bonnie"
+    message =greeting +","+ name
+LIST; this is a data structure that is mutable. it is denominated by []
+eg. List1 = ['cat', 'dog']
+TUPLE; similar to list only difference is that it is immutable and it is denominated by parantheses
+eg. Tuple1 =(1,6, 2,6,)
+SET;it is usedto store multiple values in a single variable. it values is denominated by {}
+eg.Set1 ={0,9,8,7,6,}"""
+STRINGS METHODS
+1.Upper
+string = "hello bonnie"
+print(string.upper()) 
+2.Lower 
+string = "hello bonnie"
+print(string.lower()) 
+3.Replace
+string = "I hate apples"
+string = string.replace("hate", "love")
+4.Splits
+animals = "cats,dog,fish"
+animals = animals.split(",")
+5.Join
+names = ['matt', 'theo', 'sam']
+joined_text = ", ".join(names)
+string= "hi my name is bonnie"
+index = string.find("is")
